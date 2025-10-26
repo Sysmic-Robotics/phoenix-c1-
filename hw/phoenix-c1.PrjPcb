@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IVYJMVQA
 
 [Document2]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=phoenix-c1-sch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
