@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=bulk_capacitance.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=bulk_capacitance.SchDoc|FileName=gate_driver.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=bulk_capacitance.SchDoc|FileName=hbridgeA.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=bulk_capacitance.SchDoc|FileName=hbridgeB.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=bulk_capacitance.SchDoc|FileName=hbridgeC.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=bulk_capacitance.SchDoc|FileName=phoenix-c1-sch.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=bulk_capacitance.SchDoc|FileName=ports.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=bulk_capacitance.SchDoc|FileName=power_input.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=bulk_capacitance.SchDoc|FileName=stm32g4.SchDoc|SheetNumber=2
