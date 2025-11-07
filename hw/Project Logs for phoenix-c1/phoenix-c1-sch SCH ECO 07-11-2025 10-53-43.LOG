@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=J3 Old Footprint=XT30PWM New Footprint=CONN_XT60PWM
+Change Component Comment: Designator=J3 Old Comment=XT30PW-M New Comment=XT60PW-M

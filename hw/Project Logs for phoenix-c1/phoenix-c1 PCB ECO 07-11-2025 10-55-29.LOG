@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J3 Old Footprint=CONN_XT60PWM New Footprint=XT30PWM
+Change Component Comment : Designator=J3 Old Comment=XT60PW-M New Comment=XT30PW-M
+Added Member To Class: ClassName=U_power_input Member=Component J3 XT30PW-M
