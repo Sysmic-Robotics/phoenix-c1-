@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=A NewDesignator=X1
+Change Component Designator: OldDesignator=B NewDesignator=X2
+Change Component Designator: OldDesignator=C NewDesignator=X3
+Change component parameters: Component "L1" not found
+Added Component: Designator=X4(CONN_PHASE01x01)
+Added Component: Designator=X5(CONN_PHASE01x01)
+Added Pin To Net: NetName=+3.3V Pin=B1-49
+Added Pin To Net: NetName=VCC Pin=X4-1
+Added Pin To Net: NetName=VCC Pin=X4-1
+Added Pin To Net: NetName=VCC Pin=X4-1
+Added Pin To Net: NetName=VCC Pin=X4-1
+Added Pin To Net: NetName=VCC Pin=X4-1
+Added Pin To Net: NetName=GND Pin=X5-1
+Added Pin To Net: NetName=GND Pin=X5-1
+Added Pin To Net: NetName=GND Pin=X5-1
+Added Pin To Net: NetName=GND Pin=X5-1
+Added Pin To Net: NetName=GND Pin=X5-1
+Added Member To Class: ClassName=U_power_input Member=Component X4 Motor Conector
+Added Member To Class: ClassName=U_power_input Member=Component X5 Motor Conector
