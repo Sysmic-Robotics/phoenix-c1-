@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=GND Pin=R16-2
+Removed Pin From Net: NetName=SWCLK Pin=R17-2
+Removed Pin From Net: NetName=SWCLK Pin=R18-2
+Removed Pin From Net: NetName=VCC Pin=R21-1
+Removed Pin From Net: NetName=VCC Pin=R22-1
+Removed Pin From Net: NetName=VCC Pin=R23-1
+Removed Pin From Net: NetName=VCC Pin=R23-2
+Removed Pin From Net: NetName=VCC Pin=R24-1
+Removed Pin From Net: NetName=VCC Pin=R24-2
+Removed Pin From Net: NetName=VCC Pin=R25-1
+Removed Pin From Net: NetName=VCC Pin=R25-2
+Removed Pin From Net: NetName=VCC Pin=R26-1
+Removed Pin From Net: NetName=VCC Pin=R26-2
+Removed Pin From Net: NetName=VCC Pin=R27-1
+Removed Pin From Net: NetName=VCC Pin=R27-2
+Change Component Designator: OldDesignator=+ NewDesignator=X4
+Change Component Designator: OldDesignator=- NewDesignator=X5
+Change Component Designator: OldDesignator=A NewDesignator=X1
+Change Component Designator: OldDesignator=B NewDesignator=X2
+Change Component Designator: OldDesignator=C NewDesignator=X3
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=U_external_ports Member=Component J2 S6B-ZR-SM4A-TF(LF)(SN)
