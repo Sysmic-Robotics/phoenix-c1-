@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=+ NewDesignator=X4
+Change Component Designator: OldDesignator=- NewDesignator=X5
+Change Component Designator: OldDesignator=A NewDesignator=X1
+Change Component Designator: OldDesignator=B NewDesignator=X2
+Change Component Designator: OldDesignator=C NewDesignator=X3
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default

@@ -1,0 +1,45 @@
+Added Component: Designator=B1(QFN50P700X700X65-49N-D)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/stm32g431cb.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32G431CBU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32G431CBU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G431CBU6?qs=T3oQrply3y%252B0hTuSHQ7oqA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "511-STM32G431CBU6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=B1-1
+Added Pin To Net: NetName=DRV8323_CS Pin=B1-2
+Added Pin To Net: NetName=MOTOR_ENABLE Pin=B1-3
+Added Pin To Net: NetName=MOTOR_HIZ Pin=B1-4
+Added Pin To Net: NetName=AS5600_SDA Pin=B1-5
+Added Pin To Net: NetName=MASTER_SCK Pin=B1-6
+Added Pin To Net: NetName=NRST Pin=B1-7
+Added Pin To Net: NetName=MOTOR1 Pin=B1-8
+Added Pin To Net: NetName=MOTOR2 Pin=B1-9
+Added Pin To Net: NetName=MOTOR3 Pin=B1-10
+Added Pin To Net: NetName=FCUR1 Pin=B1-11
+Added Pin To Net: NetName=FCUR2 Pin=B1-14
+Added Pin To Net: NetName=AS5600_SCL Pin=B1-16
+Added Pin To Net: NetName=MASTER_CS Pin=B1-17
+Added Pin To Net: NetName=FCUR3 Pin=B1-18
+Added Pin To Net: NetName=GPIO Pin=B1-19
+Added Pin To Net: NetName=+3.3V Pin=B1-20
+Added Pin To Net: NetName=+3.3V Pin=B1-21
+Added Pin To Net: NetName=+3.3V Pin=B1-23
+Added Pin To Net: NetName=DRV8323_FAULT Pin=B1-26
+Added Pin To Net: NetName=MASTER_MISO Pin=B1-27
+Added Pin To Net: NetName=LED2 Pin=B1-28
+Added Pin To Net: NetName=LED1 Pin=B1-29
+Added Pin To Net: NetName=UART1_TX Pin=B1-31
+Added Pin To Net: NetName=UART1_RX Pin=B1-32
+Added Pin To Net: NetName=MASTER_MOSI Pin=B1-33
+Added Pin To Net: NetName=UART1_FLOW Pin=B1-34
+Added Pin To Net: NetName=+3.3V Pin=B1-35
+Added Pin To Net: NetName=SWDIO Pin=B1-36
+Added Pin To Net: NetName=SWCLK Pin=B1-37
+Added Pin To Net: NetName=DRV8323_SCLK Pin=B1-39
+Added Pin To Net: NetName=DRV8323_MISO Pin=B1-40
+Added Pin To Net: NetName=DRV8323_MOSI Pin=B1-43
+Added Pin To Net: NetName=+3.3V Pin=B1-48
+Added Pin To Net: NetName=+3.3V Pin=B1-49
+Added Member To Class: ClassName=U_stm32g4 Member=Component B1 STM32G431CBU6
