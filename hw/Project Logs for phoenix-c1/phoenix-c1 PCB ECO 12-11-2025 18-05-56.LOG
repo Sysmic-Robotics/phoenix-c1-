@@ -1,0 +1,17 @@
+Added Component: Designator=B2(MAX15062AATAT)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/MAX15062/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX15062AATA+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX15062AATA+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX15062AATA%2bT?qs=ffX8NcjNb2RbIuhbYBH8PA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "700-MAX15062AATA+T"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=B2-1
+Added Pin To Net: NetName=VCC Pin=B2-2
+Added Pin To Net: NetName=NetB2_3 Pin=B2-3
+Added Pin To Net: NetName=+3.3V Pin=B2-4
+Added Pin To Net: NetName=NetB2_5 Pin=B2-5
+Added Pin To Net: NetName=GND Pin=B2-7
+Added Pin To Net: NetName=LX Pin=B2-8
+Added Member To Class: ClassName=U_power_input Member=Component B2 MAX15062AATA+T

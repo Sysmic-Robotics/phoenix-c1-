@@ -1,0 +1,16 @@
+Added Component: Designator=B4(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-11/214624.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ams OSRAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AS5600-ASOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "985-AS5600-ASOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/AS5600-ASOM?qs=KTMMzrZdriG6aU1h9lJCUQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "985-AS5600-ASOM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=B4-1
+Added Pin To Net: NetName=+3.3V Pin=B4-2
+Added Pin To Net: NetName=GND Pin=B4-4
+Added Pin To Net: NetName=AS5600_SDA Pin=B4-6
+Added Pin To Net: NetName=AS5600_SCL Pin=B4-7
+Added Pin To Net: NetName=+3.3V Pin=B4-8
+Added Member To Class: ClassName=U_encoder Member=Component B4 AS5600-ASOM

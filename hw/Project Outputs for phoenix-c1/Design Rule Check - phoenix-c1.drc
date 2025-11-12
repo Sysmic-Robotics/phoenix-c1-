@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\rodin\OneDrive - Universidad Técnica Federico Santa María\Documentos\Altium Designer\phoenix-c1\hw\phoenix-c1.PcbDoc
 Date     : 12-11-2025
-Time     : 0:19:21
+Time     : 19:43:18
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -10,25 +10,11 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C14-1(14.7mm,29.225mm) on Bottom Layer And Via (16.4mm,25.1mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (25.1mm,28.2mm) from Top Layer to Bottom Layer And Pad C15-1(27.6mm,29.225mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C18-1(22.2mm,29.225mm) on Bottom Layer And Via (23.8mm,28.2mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C30-1(25.943mm,8.41mm) on Bottom Layer And Pad C32-1(27.095mm,4.6mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C33-1(24.837mm,2.246mm) on Bottom Layer And Pad C32-1(27.095mm,4.6mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3.3V Between Track (14.4mm,14.9mm)(14.437mm,14.863mm) on Bottom Layer And Pad R12-2(15.692mm,18.517mm) on Bottom Layer 
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 0.062 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 0.062 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 0.062 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 0.185 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 0.592 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 0.592 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 0.592 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Copper island connected to pads/vias detected. Copper area is : 0.592 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Dead copper detected. Copper area is : 0.099 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Dead copper detected. Copper area is : 0.441 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Dead copper detected. Copper area is : 0.444 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Dead copper detected. Copper area is : 0.457 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 1. Dead copper detected. Copper area is : 0.473 sq. mm
+   Violation between Isolated copper: Split Plane  (+3.3V) on Layer 1. Dead copper detected. Copper area is : 0.41 sq. mm
+   Violation between Isolated copper: Split Plane  (+3.3V) on Layer 1. Dead copper detected. Copper area is : 0.441 sq. mm
+   Violation between Isolated copper: Split Plane  (+3.3V) on Layer 1. Dead copper detected. Copper area is : 0.444 sq. mm
+   Violation between Isolated copper: Split Plane  (+3.3V) on Layer 1. Dead copper detected. Copper area is : 0.457 sq. mm
+   Violation between Isolated copper: Split Plane  (+3.3V) on Layer 1. Dead copper detected. Copper area is : 0.473 sq. mm
    Violation between Isolated copper: Split Plane  (GND) on Layer 2. Copper island connected to pads/vias detected. Copper area is : 0.062 sq. mm
    Violation between Isolated copper: Split Plane  (GND) on Layer 2. Copper island connected to pads/vias detected. Copper area is : 0.062 sq. mm
    Violation between Isolated copper: Split Plane  (GND) on Layer 2. Copper island connected to pads/vias detected. Copper area is : 0.062 sq. mm
@@ -42,10 +28,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.444 sq. mm
    Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.457 sq. mm
    Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.473 sq. mm
-   Violation between Un-Routed Net Constraint: Net +3.3V Between Track (15.694mm,21.872mm)(15.856mm,22.033mm) on Bottom Layer And Track (23.275mm,21.832mm)(23.275mm,21.918mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3.3V Between Track (5.8mm,8.325mm)(5.854mm,8.379mm) on Bottom Layer And Track (6.6mm,11.5mm)(6.608mm,11.508mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +3.3V Between Track (7.739mm,11.714mm)(7.9mm,11.875mm) on Bottom Layer And Via (8.621mm,13.958mm) from Top Layer to Bottom Layer 
-Rule Violations :35
+Rule Violations :18
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -57,13 +40,10 @@ Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
-   Violation between Starved Thermal on Layer 1: Pad X5-1(23.73mm,38.77mm) on Multi-Layer. Blocked 3 out of 4 entries.
    Violation between Starved Thermal on Layer 2: Pad X5-1(23.73mm,38.77mm) on Multi-Layer. Blocked 3 out of 4 entries.
-   Violation between Starved Thermal on Layer 1: Pad X5-1(25mm,37.5mm) on Multi-Layer. Blocked 4 out of 4 entries.
    Violation between Starved Thermal on Layer 2: Pad X5-1(25mm,37.5mm) on Multi-Layer. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on Layer 1: Pad X5-1(26.27mm,38.77mm) on Multi-Layer. Blocked 3 out of 4 entries.
    Violation between Starved Thermal on Layer 2: Pad X5-1(26.27mm,38.77mm) on Multi-Layer. Blocked 3 out of 4 entries.
-Rule Violations :6
+Rule Violations :3
 
 Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.7mm) (All)
 Rule Violations :0
@@ -72,13 +52,7 @@ Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=0.05mm) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.05mm) Between Pad B2-1(33.378mm,21.875mm) on Bottom Layer And Pad B2-2(33.378mm,21.375mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.047mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.05mm) Between Pad B2-2(33.378mm,21.375mm) on Bottom Layer And Pad B2-3(33.378mm,20.875mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.047mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.05mm) Between Pad B2-3(33.378mm,20.875mm) on Bottom Layer And Pad B2-4(33.378mm,20.375mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.047mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.05mm) Between Pad B2-5(31.553mm,20.375mm) on Bottom Layer And Pad B2-6(31.553mm,20.875mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.047mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.05mm) Between Pad B2-6(31.553mm,20.875mm) on Bottom Layer And Pad B2-7(31.553mm,21.375mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.047mm]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.05mm) Between Pad B2-7(31.553mm,21.375mm) on Bottom Layer And Pad B2-8(31.553mm,21.875mm) on Bottom Layer [Bottom Solder] Mask Sliver [0.047mm]
-Rule Violations :6
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0.05mm) (IsPad),(All)
 Rule Violations :0
@@ -96,6 +70,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 47
+Violations Detected : 21
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
