@@ -373,7 +373,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BIQWAXFX
 
 [Document20]
-DocumentPath=RES - RT0603BRD07650RL.SchLib
+DocumentPath=RES - RT0603BRD07560RL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -390,7 +390,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HXBUNEOT
 
 [Document21]
-DocumentPath=RES - RC0603BR-104K7L.SchLib
+DocumentPath=RES - RC0603FR-104K7L.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -441,7 +441,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TDRSHALI
 
 [Document24]
-DocumentPath=CAP - 0603X473K1RACTU.SchLib
+DocumentPath=CAP - C0603X473K1RACTU.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -458,7 +458,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ONPFUPVY
 
 [Document25]
-DocumentPath=CAP - 0805GC102JAT2A.SchLib
+DocumentPath=CAP - 08056C102JAT2A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -475,7 +475,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JRCVPCFB
 
 [Document26]
-DocumentPath=CAP - 0805GC105MAT2A.SchLib
+DocumentPath=CAP - 08056C105MAT2A.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -594,7 +594,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UZYJENXS
 
 [Document33]
-DocumentPath=CAP - GRJ31CC7ZAA475KE01K.SchLib
+DocumentPath=CAP - GRJ31CC72A475KE01K.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -662,7 +662,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EXEUGKGG
 
 [Document37]
-DocumentPath=CAP - GRM033R60J474ME15D.SchLib
+DocumentPath=CAP - GRM035R60J475ME15D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1104,7 +1104,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CQISJGGB
 
 [Document63]
-DocumentPath=C0603 - TDK.PcbLib
+DocumentPath=C0603 - KEMET.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
