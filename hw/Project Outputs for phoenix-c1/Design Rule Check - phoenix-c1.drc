@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\rodin\OneDrive - Universidad Técnica Federico Santa María\Documentos\Altium Designer\phoenix-c1\hw\phoenix-c1.PcbDoc
-Date     : 13-11-2025
-Time     : 9:13:04
+Date     : 14-11-2025
+Time     : 16:47:25
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -10,25 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Isolated copper: Split Plane  (+3.3V) on Layer 1. Dead copper detected. Copper area is : 0.41 sq. mm
-   Violation between Isolated copper: Split Plane  (+3.3V) on Layer 1. Dead copper detected. Copper area is : 0.441 sq. mm
-   Violation between Isolated copper: Split Plane  (+3.3V) on Layer 1. Dead copper detected. Copper area is : 0.444 sq. mm
-   Violation between Isolated copper: Split Plane  (+3.3V) on Layer 1. Dead copper detected. Copper area is : 0.457 sq. mm
-   Violation between Isolated copper: Split Plane  (+3.3V) on Layer 1. Dead copper detected. Copper area is : 0.473 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Copper island connected to pads/vias detected. Copper area is : 0.062 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Copper island connected to pads/vias detected. Copper area is : 0.062 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Copper island connected to pads/vias detected. Copper area is : 0.062 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Copper island connected to pads/vias detected. Copper area is : 0.185 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Copper island connected to pads/vias detected. Copper area is : 0.592 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Copper island connected to pads/vias detected. Copper area is : 0.592 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Copper island connected to pads/vias detected. Copper area is : 0.592 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Copper island connected to pads/vias detected. Copper area is : 0.592 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.099 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.441 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.444 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.457 sq. mm
-   Violation between Isolated copper: Split Plane  (GND) on Layer 2. Dead copper detected. Copper area is : 0.473 sq. mm
-Rule Violations :18
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -40,11 +22,7 @@ Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
-   Violation between Starved Thermal on Layer 2: Pad X5-1(23.73mm,38.77mm) on Multi-Layer. Blocked 3 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Pad X5-1(25mm,37.5mm) on Multi-Layer. Blocked 4 out of 4 entries.
-   Violation between Starved Thermal on Layer 2: Pad X5-1(26.27mm,38.77mm) on Multi-Layer. Blocked 3 out of 4 entries.
-   Violation between Starved Thermal on Layer 1: Via (19.6mm,5.7mm) from Top Layer to Bottom Layer. Blocked 3 out of 4 entries.
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.7mm) (All)
 Rule Violations :0
@@ -71,6 +49,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 22
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01

@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=+3.3V Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=VCC Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=VCC Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=VCC Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=VCC Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=VCC Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=VCC Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=VCC Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=VCC Pin=C21-2
+Removed Pin From Net: NetName=SPA Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=SPB Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=SPC Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=DRV8323_MISO Pin=R8-1
+Removed Pin From Net: NetName=+3.3V Pin=R8-2
+Removed Pin From Net: NetName=+3.3V Pin=R10-1
+Removed Pin From Net: NetName=DRV8323_FAULT Pin=R10-2
+Change Component Footprint: Designator=C3 Old Footprint=CAPC0603X03N New Footprint=C0201 - MURATA
+Change Component Footprint: Designator=C5 Old Footprint=CAPC0603X03N New Footprint=C0201 - MURATA
+Change Component Footprint: Designator=C6 Old Footprint=CAPC0603X03N New Footprint=C0201 - MURATA
+Change Component Footprint: Designator=C7 Old Footprint=CAPC0603X03N New Footprint=C0201 - MURATA
+Change Component Footprint: Designator=C8 Old Footprint=CAPC0603X03N New Footprint=C0201 - MURATA
+Change Component Footprint: Designator=C35 Old Footprint=CAPC0603X03N New Footprint=C0201 - MURATA
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0603X06N New Footprint=C0201 - MURATA
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1005X07N New Footprint=C0402 - MURATA
+Change Component Footprint: Designator=C11 Old Footprint=CAPC1005X07N New Footprint=C0402 - MURATA
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1608X09N New Footprint=C0603 - MURATA
+Change Component Footprint: Designator=C24 Old Footprint=CAPC1608X09N New Footprint=C0603 - MURATA
+Change Component Footprint: Designator=C25 Old Footprint=CAPC1608X09N New Footprint=C0603 - MURATA
+Change Component Footprint: Designator=C26 Old Footprint=CAPC1608X09N New Footprint=C0603 - MURATA
+Change Component Footprint: Designator=C27 Old Footprint=CAPC1608X09N New Footprint=C0603 - MURATA
+Change Component Footprint: Designator=C28 Old Footprint=CAPC1608X09N New Footprint=C0603 - MURATA
+Change Component Footprint: Designator=C29 Old Footprint=CAPC1608X10N New Footprint=C0603 - KEMET
+Change Component Footprint: Designator=C30 Old Footprint=CAPC2012X05N New Footprint=C0805 - KYOCERA
+Change Component Footprint: Designator=C31 Old Footprint=CAPC2012X05N New Footprint=C0805 - KYOCERA
+Change Component Footprint: Designator=C32 Old Footprint=CAPC2012X05N New Footprint=C0805 - KYOCERA
+Change Component Footprint: Designator=C33 Old Footprint=CAPC2012X05N New Footprint=C0805 - KYOCERA
+Change Component Footprint: Designator=C34 Old Footprint=CAPC2012X05N New Footprint=C0805 - KYOCERA
+Change Component Footprint: Designator=C9 Old Footprint=CAPC2012X14N New Footprint=C0805 - MURATA
+Change Component Footprint: Designator=C10 Old Footprint=CAPC2012X14N New Footprint=C0805 - MURATA
+Change Component Footprint: Designator=C14 Old Footprint=CAPC3216X19N New Footprint=C1206 - MURATA
+Change Component Footprint: Designator=C15 Old Footprint=CAPC3216X19N New Footprint=C1206 - MURATA
+Change Component Footprint: Designator=C16 Old Footprint=CAPC3216X19N New Footprint=C1206 - MURATA
+Change Component Footprint: Designator=C17 Old Footprint=CAPC3216X19N New Footprint=C1206 - MURATA
+Change Component Footprint: Designator=C18 Old Footprint=CAPC3216X19N New Footprint=C1206 - MURATA
+Change Component Footprint: Designator=C19 Old Footprint=CAPC3216X19N New Footprint=C1206 - MURATA
+Change Component Footprint: Designator=C20 Old Footprint=CAPC3216X19N New Footprint=C1206 - MURATA
+Change Component Footprint: Designator=C21 Old Footprint=CAPC3216X19N New Footprint=C1206 - MURATA
+Change Component Footprint: Designator=D3 Old Footprint=DIOM4336X24N New Footprint=DDO-214AA (SMBJ) - VISHAY
+Change Component Footprint: Designator=L1 Old Footprint=IND_LPS4018-333MRC New Footprint=L1515 - COILCRAFT
+Change Component Footprint: Designator=D1 Old Footprint=LEDC1608X85N New Footprint=LED0603 - KINGBRIGHT
+Change Component Footprint: Designator=D2 Old Footprint=LEDC1608X85N New Footprint=LED0603 - KINGBRIGHT
+Change Component Footprint: Designator=B2 Old Footprint=MAX15062AATAT New Footprint=8-TDFN - ANALOG
+Change Component Footprint: Designator=R8 Old Footprint=RESC1005X04N New Footprint=R0402 - YAGEO
+Change Component Footprint: Designator=R10 Old Footprint=RESC1005X04N New Footprint=R0402 - YAGEO
+Change Component Footprint: Designator=R11 Old Footprint=RESC1005X04N New Footprint=R0402 - YAGEO
+Change Component Footprint: Designator=R12 Old Footprint=RESC1005X04N New Footprint=R0402 - YAGEO
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X06N New Footprint=R0603 - YAGEO
+Change Component Footprint: Designator=R2 Old Footprint=RESC1608X06N New Footprint=R0603 - YAGEO
+Change Component Footprint: Designator=R6 Old Footprint=RESC1608X06N New Footprint=R0603 - YAGEO
+Change Component Footprint: Designator=R7 Old Footprint=RESC1608X06N New Footprint=R0603 - YAGEO
+Change Component Footprint: Designator=R9 Old Footprint=RESC1608X06N New Footprint=R0603 - YAGEO
+Change Component Footprint: Designator=R3 Old Footprint=RESC2013X06N New Footprint=R0805 - SEI
+Change Component Footprint: Designator=R4 Old Footprint=RESC2013X06N New Footprint=R0805 - SEI
+Change Component Footprint: Designator=R5 Old Footprint=RESC2013X06N New Footprint=R0805 - SEI
+Change Component Footprint: Designator=D4 Old Footprint=SODFL1608X70N New Footprint=DSOD-523 - STMicroelectronics
+Change Component Footprint: Designator=D5 Old Footprint=SODFL1608X70N New Footprint=DSOD-523 - STMicroelectronics
+Change Component Footprint: Designator=D6 Old Footprint=SODFL1608X70N New Footprint=DSOD-523 - STMicroelectronics
+Change Component Footprint: Designator=B4 Old Footprint=SOIC127P600X175-8N New Footprint=SOIC-8 - OSRAM
+Change Component Footprint: Designator=J4 Old Footprint=TH_UART New Footprint=CONN - TH_UART
+Change Component Footprint: Designator=Q1 Old Footprint=TSON8_2-3X1S_TOS-L New Footprint=8-TSON - TOSHIBA
+Change Component Footprint: Designator=Q2 Old Footprint=TSON8_2-3X1S_TOS-L New Footprint=8-TSON - TOSHIBA
+Change Component Footprint: Designator=Q3 Old Footprint=TSON8_2-3X1S_TOS-L New Footprint=8-TSON - TOSHIBA
+Change Component Footprint: Designator=Q4 Old Footprint=TSON8_2-3X1S_TOS-L New Footprint=8-TSON - TOSHIBA
+Change Component Footprint: Designator=Q5 Old Footprint=TSON8_2-3X1S_TOS-L New Footprint=8-TSON - TOSHIBA
+Change Component Footprint: Designator=Q6 Old Footprint=TSON8_2-3X1S_TOS-L New Footprint=8-TSON - TOSHIBA
+Change Component Footprint: Designator=J3 Old Footprint=XT30PWM New Footprint=CONN - XT30PW-M
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3.3V Pin=C11-2
+Added Pin To Net: NetName=VCC Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=VCC Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=VCC Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=VCC Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=VCC Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=VCC Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=VCC Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=VCC Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=SPA Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=SPB Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=SPC Pin=R5-2
+Added Pin To Net: NetName=+3.3V Pin=R8-1
+Added Pin To Net: NetName=DRV8323_MISO Pin=R8-2
+Added Pin To Net: NetName=DRV8323_FAULT Pin=R10-1
+Added Pin To Net: NetName=+3.3V Pin=R10-2

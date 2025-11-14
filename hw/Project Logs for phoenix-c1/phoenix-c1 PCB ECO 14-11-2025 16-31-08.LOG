@@ -1,0 +1,15 @@
+Added Component: Designator=X1(CONN_PHASE01x01)
+Added Component: Designator=X2(CONN_PHASE01x01)
+Added Component: Designator=X3(CONN_PHASE01x01)
+Added Component: Designator=X4(CONN_PHASE01x01)
+Added Component: Designator=X5(CONN_PHASE01x01)
+Added Pin To Net: NetName=SHA Pin=X1-1
+Added Pin To Net: NetName=SHB Pin=X2-1
+Added Pin To Net: NetName=SHC Pin=X3-1
+Added Pin To Net: NetName=VCC Pin=X4-1
+Added Pin To Net: NetName=GND Pin=X5-1
+Added Member To Class: ClassName=U_hbridgeA Member=Component X1 Motor Conector
+Added Member To Class: ClassName=U_hbridgeB Member=Component X2 Motor Conector
+Added Member To Class: ClassName=U_hbridgeC Member=Component X3 Motor Conector
+Added Member To Class: ClassName=U_power_input Member=Component X4 Motor Conector
+Added Member To Class: ClassName=U_power_input Member=Component X5 Motor Conector
