@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=VCC Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=VCC Pin=C36-1
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Member From Class: ClassName=U_bulk_capacitance Member=C12
+Removed Member From Class: ClassName=U_bulk_capacitance Member=C13
+Removed Member From Class: ClassName=U_bulk_capacitance Member=C36
