@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=--1
+Removed Pin From Net: NetName=VCC Pin=+-1
+Removed Member From Class: ClassName=U_power_input Member=-
+Removed Member From Class: ClassName=U_power_input Member=+
+Change Component Designator: OldDesignator=A NewDesignator=X1
+Change Component Designator: OldDesignator=B NewDesignator=X2
+Change Component Designator: OldDesignator=C NewDesignator=X3
