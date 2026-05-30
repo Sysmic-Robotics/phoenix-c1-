@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=UART1_FLOW Pin=B1-34
+Added Pin To Net: NetName=UART1_FLOW Pin=B1-30
