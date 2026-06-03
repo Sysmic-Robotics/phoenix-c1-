@@ -1290,6 +1290,308 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NBNAUXMH
 
+[Document74]
+DocumentPath=IND - SRN4018-330M.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VZCCSPHX
+
+[Document75]
+DocumentPath=L1515 - BURNS.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DHINNHHV
+
+[ProjectVariant1]
+UniqueId=fc0da4ca-3d58-42d2-9827-da7d92397b05
+Description=Variant of Inductor
+OverwritePCBFootprint=0
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=L1|UniqueId=\GWZNTPKR\FSJKUGJR|Kind=2|AlternatePart==Manufacturer Part Number|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\rorosierra\Documents\phoenix-c1-\hw\IND - SRN4018-330M.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=SRN4018-330M|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=IND - SRN4018-330M.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=SRN4018-330M|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=.Max DC Current|VariantValue==Max DC Current
+ParamDesignator1=L1
+ParamVariation2=ParameterName=.RMS Current (Irms)|VariantValue==RMS Current (Irms)
+ParamDesignator2=L1
+ParamVariation3=ParameterName=.Value|VariantValue==Value
+ParamDesignator3=L1
+ParamVariation4=ParameterName=Case/Package|VariantValue=SMD/SMT
+ParamDesignator4=L1
+ParamVariation5=ParameterName=Case Code (Imperial)|VariantValue=1210
+ParamDesignator5=L1
+ParamVariation6=ParameterName=Case Code (Metric)|VariantValue=3225
+ParamDesignator6=L1
+ParamVariation7=ParameterName=Category|VariantValue=Fixed Inductors
+ParamDesignator7=L1
+ParamVariation8=ParameterName=China RoHS|VariantValue=Compliant
+ParamDesignator8=L1
+ParamVariation9=ParameterName=Comment|VariantValue==Manufacturer Part Number
+ParamDesignator9=L1
+ParamVariation10=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator10=L1
+ParamVariation11=ParameterName=ComponentLink1Description|VariantValue=https://datasheet.octopart.com:443/B82464P4333M000-EPCOS-datasheet-155394167.pdf?src-supplier=IHS
+ParamDesignator11=L1
+ParamVariation12=ParameterName=ComponentLink1URL|VariantValue=https://datasheet.octopart.com:443/B82464P4333M000-EPCOS-datasheet-155394167.pdf?src-supplier=IHS
+ParamDesignator12=L1
+ParamVariation13=ParameterName=ComponentLink2Description|VariantValue=https://datasheet.octopart.com:443/B82464P4333M000-EPCOS-datasheet-13705212.pdf?src-supplier=EPCOS
+ParamDesignator13=L1
+ParamVariation14=ParameterName=ComponentLink2URL|VariantValue=https://datasheet.octopart.com:443/B82464P4333M000-EPCOS-datasheet-13705212.pdf?src-supplier=EPCOS
+ParamDesignator14=L1
+ParamVariation15=ParameterName=ComponentLink3Description|VariantValue=https://datasheet.octopart.com:443/B82464P4333M000-EPCOS-datasheet-66576979.pdf?src-supplier=Newark
+ParamDesignator15=L1
+ParamVariation16=ParameterName=ComponentLink3URL|VariantValue=https://datasheet.octopart.com:443/B82464P4333M000-EPCOS-datasheet-66576979.pdf?src-supplier=Newark
+ParamDesignator16=L1
+ParamVariation17=ParameterName=ComponentLink4Description|VariantValue=https://datasheet.octopart.com:443/B82464P4333M000-EPCOS-datasheet-34142370.pdf?src-supplier=Newark
+ParamDesignator17=L1
+ParamVariation18=ParameterName=ComponentLink4URL|VariantValue=https://datasheet.octopart.com:443/B82464P4333M000-EPCOS-datasheet-34142370.pdf?src-supplier=Newark
+ParamDesignator18=L1
+ParamVariation19=ParameterName=ComponentLink5Description|VariantValue=https://datasheet.octopart.com:443/B82464P4333M000-EPCOS-datasheet-11522271.pdf?src-supplier=element14+APAC
+ParamDesignator19=L1
+ParamVariation20=ParameterName=ComponentLink5URL|VariantValue=https://datasheet.octopart.com:443/B82464P4333M000-EPCOS-datasheet-11522271.pdf?src-supplier=element14+APAC
+ParamDesignator20=L1
+ParamVariation21=ParameterName=ComponentLink6Description|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-181268619.pdf?src-supplier=IHS
+ParamDesignator21=L1
+ParamVariation22=ParameterName=ComponentLink6URL|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-181268619.pdf?src-supplier=IHS
+ParamDesignator22=L1
+ParamVariation23=ParameterName=ComponentLink7Description|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-155380433.pdf?src-supplier=TDK
+ParamDesignator23=L1
+ParamVariation24=ParameterName=ComponentLink7URL|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-155380433.pdf?src-supplier=TDK
+ParamDesignator24=L1
+ParamVariation25=ParameterName=ComponentLink8Description|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-97126320.pdf?src-supplier=Newark
+ParamDesignator25=L1
+ParamVariation26=ParameterName=ComponentLink8URL|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-97126320.pdf?src-supplier=Newark
+ParamDesignator26=L1
+ParamVariation27=ParameterName=ComponentLink9Description|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-81471259.pdf?src-supplier=Newark
+ParamDesignator27=L1
+ParamVariation28=ParameterName=ComponentLink9URL|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-81471259.pdf?src-supplier=Newark
+ParamDesignator28=L1
+ParamVariation29=ParameterName=ComponentLink10Description|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-136874827.pdf?src-supplier=TME
+ParamDesignator29=L1
+ParamVariation30=ParameterName=ComponentLink10URL|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-136874827.pdf?src-supplier=TME
+ParamDesignator30=L1
+ParamVariation31=ParameterName=ComponentLink11Description|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-61115007.pdf?src-supplier=Future+Electronics
+ParamDesignator31=L1
+ParamVariation32=ParameterName=ComponentLink11URL|VariantValue=https://datasheet.octopart.com:443/NLV32T-3R3J-EF-TDK-datasheet-61115007.pdf?src-supplier=Future+Electronics
+ParamDesignator32=L1
+ParamVariation33=ParameterName=ComponentLink12Description|VariantValue=https://datasheet.octopart.com:443/MBKK1608T3R3M-Taiyo-Yuden-datasheet-181265470.pdf?src-supplier=IHS
+ParamDesignator33=L1
+ParamVariation34=ParameterName=ComponentLink12URL|VariantValue=https://datasheet.octopart.com:443/MBKK1608T3R3M-Taiyo-Yuden-datasheet-181265470.pdf?src-supplier=IHS
+ParamDesignator34=L1
+ParamVariation35=ParameterName=ComponentLink13Description|VariantValue=https://datasheet.octopart.com:443/MBKK1608T3R3M-Taiyo-Yuden-datasheet-154809596.pdf?src-supplier=Master+Electronics
+ParamDesignator35=L1
+ParamVariation36=ParameterName=ComponentLink13URL|VariantValue=https://datasheet.octopart.com:443/MBKK1608T3R3M-Taiyo-Yuden-datasheet-154809596.pdf?src-supplier=Master+Electronics
+ParamDesignator36=L1
+ParamVariation37=ParameterName=ComponentLink14Description|VariantValue=https://datasheet.octopart.com:443/MBKK1608T3R3M-Taiyo-Yuden-datasheet-168245478.pdf?src-supplier=Future+Electronics
+ParamDesignator37=L1
+ParamVariation38=ParameterName=ComponentLink14URL|VariantValue=https://datasheet.octopart.com:443/MBKK1608T3R3M-Taiyo-Yuden-datasheet-168245478.pdf?src-supplier=Future+Electronics
+ParamDesignator38=L1
+ParamVariation39=ParameterName=ComponentLink15Description|VariantValue=https://datasheet.octopart.com:443/MBKK1608T3R3M-Taiyo-Yuden-datasheet-140707427.pdf?src-supplier=Taiyo+Yuden+SCT
+ParamDesignator39=L1
+ParamVariation40=ParameterName=ComponentLink15URL|VariantValue=https://datasheet.octopart.com:443/MBKK1608T3R3M-Taiyo-Yuden-datasheet-140707427.pdf?src-supplier=Taiyo+Yuden+SCT
+ParamDesignator40=L1
+ParamVariation41=ParameterName=ComponentLink16Description|VariantValue=https://datasheet.octopart.com:443/LPS4018-333MRC-Coilcraft-datasheet-178522552.pdf?src-supplier=IHS
+ParamDesignator41=L1
+ParamVariation42=ParameterName=ComponentLink16URL|VariantValue=https://datasheet.octopart.com:443/LPS4018-333MRC-Coilcraft-datasheet-178522552.pdf?src-supplier=IHS
+ParamDesignator42=L1
+ParamVariation43=ParameterName=ComponentLink17Description|VariantValue=https://datasheet.octopart.com:443/LPS4018-333MRC-Coilcraft-datasheet-10791166.pdf?src-supplier=Coilcraft+Direct
+ParamDesignator43=L1
+ParamVariation44=ParameterName=ComponentLink17URL|VariantValue=https://datasheet.octopart.com:443/LPS4018-333MRC-Coilcraft-datasheet-10791166.pdf?src-supplier=Coilcraft+Direct
+ParamDesignator44=L1
+ParamVariation45=ParameterName=ComponentLink18Description|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-170574711.pdf?src-supplier=IHS
+ParamDesignator45=L1
+ParamVariation46=ParameterName=ComponentLink18URL|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-170574711.pdf?src-supplier=IHS
+ParamDesignator46=L1
+ParamVariation47=ParameterName=ComponentLink19Description|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-13266055.pdf?src-supplier=element14+APAC
+ParamDesignator47=L1
+ParamVariation48=ParameterName=ComponentLink19URL|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-13266055.pdf?src-supplier=element14+APAC
+ParamDesignator48=L1
+ParamVariation49=ParameterName=ComponentLink20Description|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-99355710.pdf?src-supplier=element14+APAC
+ParamDesignator49=L1
+ParamVariation50=ParameterName=ComponentLink20URL|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-99355710.pdf?src-supplier=element14+APAC
+ParamDesignator50=L1
+ParamVariation51=ParameterName=ComponentLink21Description|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M.-Bourns-datasheet-94059744.pdf?src-supplier=element14+APAC
+ParamDesignator51=L1
+ParamVariation52=ParameterName=ComponentLink21URL|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M.-Bourns-datasheet-94059744.pdf?src-supplier=element14+APAC
+ParamDesignator52=L1
+ParamVariation53=ParameterName=ComponentLink22Description|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-104271395.pdf?src-supplier=Newark
+ParamDesignator53=L1
+ParamVariation54=ParameterName=ComponentLink22URL|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-104271395.pdf?src-supplier=Newark
+ParamDesignator54=L1
+ParamVariation55=ParameterName=ComponentLink23Description|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-37096297.pdf?src-supplier=Newark
+ParamDesignator55=L1
+ParamVariation56=ParameterName=ComponentLink23URL|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-37096297.pdf?src-supplier=Newark
+ParamDesignator56=L1
+ParamVariation57=ParameterName=ComponentLink24Description|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-154729929.pdf?src-supplier=Electro+Sonic
+ParamDesignator57=L1
+ParamVariation58=ParameterName=ComponentLink24URL|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-154729929.pdf?src-supplier=Electro+Sonic
+ParamDesignator58=L1
+ParamVariation59=ParameterName=ComponentLink25Description|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-68306452.pdf?src-supplier=Electro+Sonic
+ParamDesignator59=L1
+ParamVariation60=ParameterName=ComponentLink25URL|VariantValue=https://datasheet.octopart.com:443/SRN4018-330M-Bourns-datasheet-68306452.pdf?src-supplier=Electro+Sonic
+ParamDesignator60=L1
+ParamVariation61=ParameterName=ComponentLink26Description|VariantValue=http://sigma.octopart.com:80/conflict_mineral_statement/Bourns-company-36.pdf?src-supplier=Compliance+Statements
+ParamDesignator61=L1
+ParamVariation62=ParameterName=ComponentLink26URL|VariantValue=http://sigma.octopart.com:80/conflict_mineral_statement/Bourns-company-36.pdf?src-supplier=Compliance+Statements
+ParamDesignator62=L1
+ParamVariation63=ParameterName=Composition|VariantValue=Wirewound
+ParamDesignator63=L1
+ParamVariation64=ParameterName=Contact Plating|VariantValue=Tin
+ParamDesignator64=L1
+ParamVariation65=ParameterName=Core Material|VariantValue=Ferrite
+ParamDesignator65=L1
+ParamVariation66=ParameterName=Country of Origin|VariantValue=Taiwan
+ParamDesignator66=L1
+ParamVariation67=ParameterName=Current Rating|VariantValue=260mA
+ParamDesignator67=L1
+ParamVariation68=ParameterName=DC Current|VariantValue=1.85A
+ParamDesignator68=L1
+ParamVariation69=ParameterName=DC Resistance (DCR)|VariantValue=75mΩ
+ParamDesignator69=L1
+ParamVariation70=ParameterName=Depth|VariantValue=10.4mm
+ParamDesignator70=L1
+ParamVariation71=ParameterName=Description|VariantValue=Ind Power Semi-Shielded Wirewound 33uH 20% 100KHz Ferrite 700mA 1515 T/R
+ParamDesignator71=L1
+ParamVariation72=ParameterName=ESR|VariantValue=552mΩ
+ParamDesignator72=L1
+ParamVariation73=ParameterName=Export Control Classification Number (ECCN) Code|VariantValue=EAR99
+ParamDesignator73=L1
+ParamVariation74=ParameterName=Footprint|VariantValue=SRN4018-330M
+ParamDesignator74=L1
+ParamVariation75=ParameterName=Harmonized Tariff Schedule (HTS) Code|VariantValue=8504.50.80.00
+ParamDesignator75=L1
+ParamVariation76=ParameterName=Height|VariantValue=4.8mm
+ParamDesignator76=L1
+ParamVariation77=ParameterName=Height - Seated (Max)|VariantValue=2.3876mm
+ParamDesignator77=L1
+ParamVariation78=ParameterName=Ibis Model|VariantValue=
+ParamDesignator78=L1
+ParamVariation79=ParameterName=Inductance Tolerance|VariantValue=20%
+ParamDesignator79=L1
+ParamVariation80=ParameterName=Introduction Date|VariantValue=2012-12-11
+ParamDesignator80=L1
+ParamVariation81=ParameterName=Lead Free|VariantValue=Lead Free
+ParamDesignator81=L1
+ParamVariation82=ParameterName=Length|VariantValue=10.4mm
+ParamDesignator82=L1
+ParamVariation83=ParameterName=Library Reference|VariantValue=SRN4018-330M
+ParamDesignator83=L1
+ParamVariation84=ParameterName=Lifecycle Status|VariantValue=Production
+ParamDesignator84=L1
+ParamVariation85=ParameterName=Manufacturer|VariantValue=EPCOS
+ParamDesignator85=L1
+ParamVariation86=ParameterName=Manufacturer Lifecycle Status|VariantValue=PRODUCTION
+ParamDesignator86=L1
+ParamVariation87=ParameterName=Manufacturer Part Number|VariantValue=B82464P4333M000
+ParamDesignator87=L1
+ParamVariation88=ParameterName=Material|VariantValue=Steel
+ParamDesignator88=L1
+ParamVariation89=ParameterName=Max Current Rating|VariantValue=1.85A
+ParamDesignator89=L1
+ParamVariation90=ParameterName=Max DC Current|VariantValue=1.85A
+ParamDesignator90=L1
+ParamVariation91=ParameterName=Max Length|VariantValue=10.4mm
+ParamDesignator91=L1
+ParamVariation92=ParameterName=Max Operating Temperature|VariantValue=150°C
+ParamDesignator92=L1
+ParamVariation93=ParameterName=Max Saturation Current|VariantValue=450mA
+ParamDesignator93=L1
+ParamVariation94=ParameterName=Max Temperature Rise Current|VariantValue=600mA
+ParamDesignator94=L1
+ParamVariation95=ParameterName=Max Width|VariantValue=10.4mm
+ParamDesignator95=L1
+ParamVariation96=ParameterName=Military Standard|VariantValue=Not
+ParamDesignator96=L1
+ParamVariation97=ParameterName=Min Length|VariantValue=3mm
+ParamDesignator97=L1
+ParamVariation98=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator98=L1
+ParamVariation99=ParameterName=Min Width|VariantValue=2.3mm
+ParamDesignator99=L1
+ParamVariation100=ParameterName=Mounting Technology|VariantValue=Surface Mount
+ParamDesignator100=L1
+ParamVariation101=ParameterName=Number of Circuits|VariantValue=1
+ParamDesignator101=L1
+ParamVariation102=ParameterName=Number of Terminals|VariantValue=2
+ParamDesignator102=L1
+ParamVariation103=ParameterName=Packaging|VariantValue=Tape & Reel (TR)
+ParamDesignator103=L1
+ParamVariation104=ParameterName=PCB3D|VariantValue=
+ParamDesignator104=L1
+ParamVariation105=ParameterName=Pin Info|VariantValue=
+ParamDesignator105=L1
+ParamVariation106=ParameterName=Pins|VariantValue=2
+ParamDesignator106=L1
+ParamVariation107=ParameterName=Pricing|VariantValue=1=1,59, 10=1,31, 50=1,14, 100=1,08, 1000=0,885, 10000=0,775 (USD)
+ParamDesignator107=L1
+ParamVariation108=ParameterName=Q Factor|VariantValue=30
+ParamDesignator108=L1
+ParamVariation109=ParameterName=REACH SVHC|VariantValue=Yes
+ParamDesignator109=L1
+ParamVariation110=ParameterName=RMS Current (Irms)|VariantValue=1.85A
+ParamDesignator110=L1
+ParamVariation111=ParameterName=RoHS|VariantValue=Compliant
+ParamDesignator111=L1
+ParamVariation112=ParameterName=Saturation Current|VariantValue=2.1A
+ParamDesignator112=L1
+ParamVariation113=ParameterName=Schedule B|VariantValue=8504500000, 8504500000|8504500000|8504500000|8504500000|8504500000
+ParamDesignator113=L1
+ParamVariation114=ParameterName=Self Resonant Frequency|VariantValue=60MHz
+ParamDesignator114=L1
+ParamVariation115=ParameterName=Shielding|VariantValue=Yes
+ParamDesignator115=L1
+ParamVariation116=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator116=L1
+ParamVariation117=ParameterName=Simulation|VariantValue=
+ParamDesignator117=L1
+ParamVariation118=ParameterName=Stock|VariantValue=942
+ParamDesignator118=L1
+ParamVariation119=ParameterName=Supplier|VariantValue=Mouser
+ParamDesignator119=L1
+ParamVariation120=ParameterName=Supplier 1|VariantValue=Mouser
+ParamDesignator120=L1
+ParamVariation121=ParameterName=Supplier Part Number|VariantValue=871-B82464P4333M
+ParamDesignator121=L1
+ParamVariation122=ParameterName=Supplier Part Number 1|VariantValue=652-SRN4018-330M
+ParamDesignator122=L1
+ParamVariation123=ParameterName=Temperature Rise Current|VariantValue=650mA
+ParamDesignator123=L1
+ParamVariation124=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator124=L1
+ParamVariation125=ParameterName=Test Frequency|VariantValue=100kHz
+ParamDesignator125=L1
+ParamVariation126=ParameterName=Tolerance|VariantValue=20%
+ParamDesignator126=L1
+ParamVariation127=ParameterName=Value|VariantValue=33µH
+ParamDesignator127=L1
+ParamVariation128=ParameterName=Weight|VariantValue=50.008559mg
+ParamDesignator128=L1
+ParamVariation129=ParameterName=Width|VariantValue=10.4mm
+ParamDesignator129=L1
+ParamVariationCount=129
+
 [GeneratedDocument1]
 DocumentPath=https://usmcl-my.sharepoint.com/personal/rodrigo_sierral_usm_cl/Documents/Documentos/Altium Designer/phoenix-c1/hw/Project Outputs for phoenix-c1/phoenix-c1.xlsx
 DItemRevisionGUID=
@@ -2452,184 +2754,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=phoenix-c1-schlib.SchLib
-ComponentDesignItemID0=08056C102JAT2A
-ComponentSymbolReference0=08056C102JAT2A
+ComponentLibraryIdentifier0=IND - LPS4018-333MRC.SchLib
+ComponentDesignItemID0=LPS4018-333MRC
+ComponentSymbolReference0=LPS4018-333MRC
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=phoenix-c1-schlib.SchLib
-ComponentDesignItemID1=08056C105MAT2A
-ComponentSymbolReference1=08056C105MAT2A
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=phoenix-c1-schlib.SchLib
-ComponentDesignItemID2=AF0402JR-072KL
-ComponentSymbolReference2=AF0402JR-072KL
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=phoenix-c1-schlib.SchLib
-ComponentDesignItemID3=APT1608SURCK
-ComponentSymbolReference3=APT1608SURCK
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=phoenix-c1-schlib.SchLib
-ComponentDesignItemID4=AS5600-ASOM
-ComponentSymbolReference4=AS5600-ASOM
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=phoenix-c1-schlib.SchLib
-ComponentDesignItemID5=BAT41KFILM
-ComponentSymbolReference5=BAT41KFILM
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=phoenix-c1-schlib.SchLib
-ComponentDesignItemID6=C0603X473K1RACTU
-ComponentSymbolReference6=C0603X473K1RACTU
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=phoenix-c1-schlib.SchLib
-ComponentDesignItemID7=C1608X7R1E105K080AE
-ComponentSymbolReference7=C1608X7R1E105K080AE
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=phoenix-c1-schlib.SchLib
-ComponentDesignItemID8=CMP-17439-000151-1
-ComponentSymbolReference8=CMP-17439-000151-1
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=phoenix-c1-schlib.SchLib
-ComponentDesignItemID9=Conn_01x01
-ComponentSymbolReference9=Conn_01x01
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=phoenix-c1-schlib.SchLib
-ComponentDesignItemID10=CSSH0805FT2L00
-ComponentSymbolReference10=CSSH0805FT2L00
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=phoenix-c1-schlib.SchLib
-ComponentDesignItemID11=DRV8323SRTAR
-ComponentSymbolReference11=DRV8323SRTAR
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=phoenix-c1-schlib.SchLib
-ComponentDesignItemID12=GCJ188R72A104KA01D
-ComponentSymbolReference12=GCJ188R72A104KA01D
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=phoenix-c1-schlib.SchLib
-ComponentDesignItemID13=GCM21BC72A105KE36L
-ComponentSymbolReference13=GCM21BC72A105KE36L
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=phoenix-c1-schlib.SchLib
-ComponentDesignItemID14=GRJ31CC72A475KE01K
-ComponentSymbolReference14=GRJ31CC72A475KE01K
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=phoenix-c1-schlib.SchLib
-ComponentDesignItemID15=GRM035R60J475ME15D
-ComponentSymbolReference15=GRM035R60J475ME15D
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=phoenix-c1-schlib.SchLib
-ComponentDesignItemID16=GRM155R60J106ME05D
-ComponentSymbolReference16=GRM155R60J106ME05D
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=phoenix-c1-schlib.SchLib
-ComponentDesignItemID17=GRM188R60J105KA01D
-ComponentSymbolReference17=GRM188R60J105KA01D
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=phoenix-c1-schlib.SchLib
-ComponentDesignItemID18=GRT033R60J104KE01J
-ComponentSymbolReference18=GRT033R60J104KE01J
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=phoenix-c1-schlib.SchLib
-ComponentDesignItemID19=JUMPER
-ComponentSymbolReference19=JUMPER
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
-ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=phoenix-c1-schlib.SchLib
-ComponentDesignItemID20=MAX15062AATA+T
-ComponentSymbolReference20=MAX15062AATA+T
-ComponentUpdate20=1
-ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=phoenix-c1-schlib.SchLib
-ComponentDesignItemID21=MBKK1608T3R3M
-ComponentSymbolReference21=MBKK1608T3R3M
-ComponentUpdate21=1
-ComponentIsDeviceSheet21=0
-ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=phoenix-c1-schlib.SchLib
-ComponentDesignItemID22=RC0603JR-0722RL
-ComponentSymbolReference22=RC0603JR-0722RL
-ComponentUpdate22=1
-ComponentIsDeviceSheet22=0
-ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=phoenix-c1-schlib.SchLib
-ComponentDesignItemID23=RT0603BRD07560RL
-ComponentSymbolReference23=RT0603BRD07560RL
-ComponentUpdate23=1
-ComponentIsDeviceSheet23=0
-ComponentLibIdentifierKind24=Library Name And Type
-ComponentLibraryIdentifier24=phoenix-c1-schlib.SchLib
-ComponentDesignItemID24=SMBJ48D-M3/I
-ComponentSymbolReference24=SMBJ48D-M3/I
-ComponentUpdate24=1
-ComponentIsDeviceSheet24=0
-ComponentLibIdentifierKind25=Library Name And Type
-ComponentLibraryIdentifier25=phoenix-c1-schlib.SchLib
-ComponentDesignItemID25=STM32G431CBU6
-ComponentSymbolReference25=STM32G431CBU6
-ComponentUpdate25=1
-ComponentIsDeviceSheet25=0
-ComponentLibIdentifierKind26=Library Name And Type
-ComponentLibraryIdentifier26=phoenix-c1-schlib.SchLib
-ComponentDesignItemID26=TH_UART
-ComponentSymbolReference26=TH_UART
-ComponentUpdate26=1
-ComponentIsDeviceSheet26=0
-ComponentLibIdentifierKind27=Library Name And Type
-ComponentLibraryIdentifier27=phoenix-c1-schlib.SchLib
-ComponentDesignItemID27=TPN19008QM,LQ
-ComponentSymbolReference27=TPN19008QM,LQ
-ComponentUpdate27=1
-ComponentIsDeviceSheet27=0
-ComponentLibIdentifierKind28=Library Name And Type
-ComponentLibraryIdentifier28=phoenix-c1-schlib.SchLib
-ComponentDesignItemID28=XT30PW-M
-ComponentSymbolReference28=XT30PW-M
-ComponentUpdate28=1
-ComponentIsDeviceSheet28=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2643,484 +2777,205 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=.Case/Package
+ParameterName0=.Max DC Current
 ParameterUpdate0=1
-ParameterName1=.Current
+ParameterName1=.RMS Current (Irms)
 ParameterUpdate1=1
-ParameterName2=.Max DC Current
+ParameterName2=.Value
 ParameterUpdate2=1
-ParameterName3=.RMS Current (Irms)
+ParameterName3=Case Code (Imperial)
 ParameterUpdate3=1
-ParameterName4=.Tolerance
+ParameterName4=Case Code (Metric)
 ParameterUpdate4=1
-ParameterName5=.Value
+ParameterName5=Case/Package
 ParameterUpdate5=1
-ParameterName6=.Voltage Rating (DC)
+ParameterName6=Category
 ParameterUpdate6=1
-ParameterName7=Arrow Part Number
+ParameterName7=Comment
 ParameterUpdate7=1
-ParameterName8=Arrow Price/Stock
+ParameterName8=Component Kind
 ParameterUpdate8=1
-ParameterName9=Average Rectified Current
+ParameterName9=ComponentLink10Description
 ParameterUpdate9=1
-ParameterName10=Breakdown Voltage
+ParameterName10=ComponentLink10URL
 ParameterUpdate10=1
-ParameterName11=Case Code (Imperial)
+ParameterName11=ComponentLink11Description
 ParameterUpdate11=1
-ParameterName12=Case Code (Metric)
+ParameterName12=ComponentLink11URL
 ParameterUpdate12=1
-ParameterName13=Case/Package
+ParameterName13=ComponentLink12Description
 ParameterUpdate13=1
-ParameterName14=Category
+ParameterName14=ComponentLink12URL
 ParameterUpdate14=1
-ParameterName15=China RoHS
+ParameterName15=ComponentLink13Description
 ParameterUpdate15=1
-ParameterName16=Clamping Voltage
+ParameterName16=ComponentLink13URL
 ParameterUpdate16=1
-ParameterName17=Color
+ParameterName17=ComponentLink14Description
 ParameterUpdate17=1
-ParameterName18=Comment
+ParameterName18=ComponentLink14URL
 ParameterUpdate18=1
-ParameterName19=Component Kind
+ParameterName19=ComponentLink15Description
 ParameterUpdate19=1
-ParameterName20=ComponentLink10Description
+ParameterName20=ComponentLink15URL
 ParameterUpdate20=1
-ParameterName21=ComponentLink10URL
+ParameterName21=ComponentLink16Description
 ParameterUpdate21=1
-ParameterName22=ComponentLink11Description
+ParameterName22=ComponentLink16URL
 ParameterUpdate22=1
-ParameterName23=ComponentLink11URL
+ParameterName23=ComponentLink17Description
 ParameterUpdate23=1
-ParameterName24=ComponentLink12Description
+ParameterName24=ComponentLink17URL
 ParameterUpdate24=1
-ParameterName25=ComponentLink12URL
+ParameterName25=ComponentLink1Description
 ParameterUpdate25=1
-ParameterName26=ComponentLink13Description
+ParameterName26=ComponentLink1URL
 ParameterUpdate26=1
-ParameterName27=ComponentLink13URL
+ParameterName27=ComponentLink2Description
 ParameterUpdate27=1
-ParameterName28=ComponentLink14Description
+ParameterName28=ComponentLink2URL
 ParameterUpdate28=1
-ParameterName29=ComponentLink14URL
+ParameterName29=ComponentLink3Description
 ParameterUpdate29=1
-ParameterName30=ComponentLink15Description
+ParameterName30=ComponentLink3URL
 ParameterUpdate30=1
-ParameterName31=ComponentLink15URL
+ParameterName31=ComponentLink4Description
 ParameterUpdate31=1
-ParameterName32=ComponentLink16Description
+ParameterName32=ComponentLink4URL
 ParameterUpdate32=1
-ParameterName33=ComponentLink16URL
+ParameterName33=ComponentLink5Description
 ParameterUpdate33=1
-ParameterName34=ComponentLink17Description
+ParameterName34=ComponentLink5URL
 ParameterUpdate34=1
-ParameterName35=ComponentLink17URL
+ParameterName35=ComponentLink6Description
 ParameterUpdate35=1
-ParameterName36=ComponentLink18Description
+ParameterName36=ComponentLink6URL
 ParameterUpdate36=1
-ParameterName37=ComponentLink18URL
+ParameterName37=ComponentLink7Description
 ParameterUpdate37=1
-ParameterName38=ComponentLink19Description
+ParameterName38=ComponentLink7URL
 ParameterUpdate38=1
-ParameterName39=ComponentLink19URL
+ParameterName39=ComponentLink8Description
 ParameterUpdate39=1
-ParameterName40=ComponentLink1Description
+ParameterName40=ComponentLink8URL
 ParameterUpdate40=1
-ParameterName41=ComponentLink1URL
+ParameterName41=ComponentLink9Description
 ParameterUpdate41=1
-ParameterName42=ComponentLink20Description
+ParameterName42=ComponentLink9URL
 ParameterUpdate42=1
-ParameterName43=ComponentLink20URL
+ParameterName43=Composition
 ParameterUpdate43=1
-ParameterName44=ComponentLink21Description
+ParameterName44=Contact Plating
 ParameterUpdate44=1
-ParameterName45=ComponentLink21URL
+ParameterName45=Core Material
 ParameterUpdate45=1
-ParameterName46=ComponentLink2Description
+ParameterName46=Current Rating
 ParameterUpdate46=1
-ParameterName47=ComponentLink2URL
+ParameterName47=DC Current
 ParameterUpdate47=1
-ParameterName48=ComponentLink3Description
+ParameterName48=DC Resistance (DCR)
 ParameterUpdate48=1
-ParameterName49=ComponentLink3URL
+ParameterName49=Depth
 ParameterUpdate49=1
-ParameterName50=ComponentLink4Description
+ParameterName50=Description
 ParameterUpdate50=1
-ParameterName51=ComponentLink4URL
+ParameterName51=Height
 ParameterUpdate51=1
-ParameterName52=ComponentLink5Description
+ParameterName52=Height - Seated (Max)
 ParameterUpdate52=1
-ParameterName53=ComponentLink5URL
+ParameterName53=Inductance Tolerance
 ParameterUpdate53=1
-ParameterName54=ComponentLink6Description
+ParameterName54=Lead Free
 ParameterUpdate54=1
-ParameterName55=ComponentLink6URL
+ParameterName55=Length
 ParameterUpdate55=1
-ParameterName56=ComponentLink7Description
+ParameterName56=Library Reference
 ParameterUpdate56=1
-ParameterName57=ComponentLink7URL
+ParameterName57=Lifecycle Status
 ParameterUpdate57=1
-ParameterName58=ComponentLink8Description
+ParameterName58=Manufacturer
 ParameterUpdate58=1
-ParameterName59=ComponentLink8URL
+ParameterName59=Manufacturer Lifecycle Status
 ParameterUpdate59=1
-ParameterName60=ComponentLink9Description
+ParameterName60=Manufacturer Part Number
 ParameterUpdate60=1
-ParameterName61=ComponentLink9URL
+ParameterName61=Max Current Rating
 ParameterUpdate61=1
-ParameterName62=Composition
+ParameterName62=Max DC Current
 ParameterUpdate62=1
-ParameterName63=Connector Type
+ParameterName63=Max Length
 ParameterUpdate63=1
-ParameterName64=Contact Finish - Mating
+ParameterName64=Max Operating Temperature
 ParameterUpdate64=1
-ParameterName65=Contact Material
+ParameterName65=Max Saturation Current
 ParameterUpdate65=1
-ParameterName66=Contact Plating
+ParameterName66=Max Temperature Rise Current
 ParameterUpdate66=1
-ParameterName67=Contact Resistance
+ParameterName67=Max Width
 ParameterUpdate67=1
-ParameterName68=Contact Shape
+ParameterName68=Military Standard
 ParameterUpdate68=1
-ParameterName69=Contact Type
+ParameterName69=Min Length
 ParameterUpdate69=1
-ParameterName70=Copyright
+ParameterName70=Min Operating Temperature
 ParameterUpdate70=1
-ParameterName71=Core Material
+ParameterName71=Min Width
 ParameterUpdate71=1
-ParameterName72=Current Rating
+ParameterName72=Mounting Technology
 ParameterUpdate72=1
-ParameterName73=Datasheet Link
+ParameterName73=Number of Circuits
 ParameterUpdate73=1
-ParameterName74=DC Current
+ParameterName74=Number of Terminals
 ParameterUpdate74=1
-ParameterName75=DC Resistance (DCR)
+ParameterName75=Packaging
 ParameterUpdate75=1
-ParameterName76=Depth
+ParameterName76=Pricing
 ParameterUpdate76=1
-ParameterName77=Description
+ParameterName77=Q Factor
 ParameterUpdate77=1
-ParameterName78=Dielectric
+ParameterName78=REACH SVHC
 ParameterUpdate78=1
-ParameterName79=Dielectric Material
+ParameterName79=RMS Current (Irms)
 ParameterUpdate79=1
-ParameterName80=Dissipation Factor
+ParameterName80=RoHS
 ParameterUpdate80=1
-ParameterName81=Dominant Wavelength
+ParameterName81=Saturation Current
 ParameterUpdate81=1
-ParameterName82=Element Configuration
+ParameterName82=Schedule B
 ParameterUpdate82=1
-ParameterName83=Fastening Type
+ParameterName83=Self Resonant Frequency
 ParameterUpdate83=1
-ParameterName84=Features
+ParameterName84=Shielding
 ParameterUpdate84=1
-ParameterName85=Flammability Rating
+ParameterName85=Stock
 ParameterUpdate85=1
-ParameterName86=Forward Current
+ParameterName86=Supplier
 ParameterUpdate86=1
-ParameterName87=Forward Voltage
+ParameterName87=Supplier 1
 ParameterUpdate87=1
-ParameterName88=Gender
+ParameterName88=Supplier Part Number
 ParameterUpdate88=1
-ParameterName89=Geometry.Height
+ParameterName89=Supplier Part Number 1
 ParameterUpdate89=1
-ParameterName90=Height
+ParameterName90=Temperature Rise Current
 ParameterUpdate90=1
-ParameterName91=Height - Seated (Max)
+ParameterName91=Termination
 ParameterUpdate91=1
-ParameterName92=Housing Color
+ParameterName92=Test Frequency
 ParameterUpdate92=1
-ParameterName93=Housing Material
+ParameterName93=Tolerance
 ParameterUpdate93=1
-ParameterName94=Illumination Color
+ParameterName94=Value
 ParameterUpdate94=1
-ParameterName95=Inductance Tolerance
+ParameterName95=Weight
 ParameterUpdate95=1
-ParameterName96=Insulation Color
+ParameterName96=Width
 ParameterUpdate96=1
-ParameterName97=Insulation Material
-ParameterUpdate97=1
-ParameterName98=Insulation Resistance
-ParameterUpdate98=1
-ParameterName99=Lead Free
-ParameterUpdate99=1
-ParameterName100=Length
-ParameterUpdate100=1
-ParameterName101=Lens Color
-ParameterUpdate101=1
-ParameterName102=Lens Style
-ParameterUpdate102=1
-ParameterName103=Library Reference
-ParameterUpdate103=1
-ParameterName104=Lifecycle Status
-ParameterUpdate104=1
-ParameterName105=Luminous Intensity
-ParameterUpdate105=1
-ParameterName106=Manufacturer
-ParameterUpdate106=1
-ParameterName107=Manufacturer Lifecycle Status
-ParameterUpdate107=1
-ParameterName108=Manufacturer Part Number
-ParameterUpdate108=1
-ParameterName109=Manufacturer_Name
-ParameterUpdate109=1
-ParameterName110=Manufacturer_Part_Number
-ParameterUpdate110=1
-ParameterName111=Material
-ParameterUpdate111=1
-ParameterName112=Max Breakdown Voltage
-ParameterUpdate112=1
-ParameterName113=Max Current Rating
-ParameterUpdate113=1
-ParameterName114=Max DC Current
-ParameterUpdate114=1
-ParameterName115=Max Forward Surge Current (Ifsm)
-ParameterUpdate115=1
-ParameterName116=Max Junction Temperature (Tj)
-ParameterUpdate116=1
-ParameterName117=Max Length
-ParameterUpdate117=1
-ParameterName118=Max Operating Temperature
-ParameterUpdate118=1
-ParameterName119=Max Output current
-ParameterUpdate119=1
-ParameterName120=Max Power Dissipation
-ParameterUpdate120=1
-ParameterName121=Max Repetitive Reverse Voltage (Vrrm)
-ParameterUpdate121=1
-ParameterName122=Max Reverse Leakage Current
-ParameterUpdate122=1
-ParameterName123=Max Reverse Voltage (DC)
-ParameterUpdate123=1
-ParameterName124=Max Saturation Current
-ParameterUpdate124=1
-ParameterName125=Max Surge Current
-ParameterUpdate125=1
-ParameterName126=Max Temperature Rise Current
-ParameterUpdate126=1
-ParameterName127=Max Voltage Rating (AC)
-ParameterUpdate127=1
-ParameterName128=Max Voltage Rating (DC)
-ParameterUpdate128=1
-ParameterName129=Max Width
-ParameterUpdate129=1
-ParameterName130=Military Standard
-ParameterUpdate130=1
-ParameterName131=Min Breakdown Voltage
-ParameterUpdate131=1
-ParameterName132=Min Length
-ParameterUpdate132=1
-ParameterName133=Min Operating Temperature
-ParameterUpdate133=1
-ParameterName134=Min Width
-ParameterUpdate134=1
-ParameterName135=Mount
-ParameterUpdate135=1
-ParameterName136=Mounting Technology
-ParameterUpdate136=1
-ParameterName137=Mouser Part Number
-ParameterUpdate137=1
-ParameterName138=Mouser Price/Stock
-ParameterUpdate138=1
-ParameterName139=Number of Circuits
-ParameterUpdate139=1
-ParameterName140=Number of Contacts
-ParameterUpdate140=1
-ParameterName141=Number of Elements
-ParameterUpdate141=1
-ParameterName142=Number of LEDs
-ParameterUpdate142=1
-ParameterName143=Number of Positions
-ParameterUpdate143=1
-ParameterName144=Number of Rows
-ParameterUpdate144=1
-ParameterName145=Number of Terminals
-ParameterUpdate145=1
-ParameterName146=Number of Terminations
-ParameterUpdate146=1
-ParameterName147=Number of Unidirectional Channels
-ParameterUpdate147=1
-ParameterName148=Orientation
-ParameterUpdate148=1
-ParameterName149=Output Current
-ParameterUpdate149=1
-ParameterName150=Packaging
-ParameterUpdate150=1
-ParameterName151=Peak Non-Repetitive Surge Current
-ParameterUpdate151=1
-ParameterName152=Peak Pulse Current
-ParameterUpdate152=1
-ParameterName153=Peak Pulse Power
-ParameterUpdate153=1
-ParameterName154=Peak Reverse Current
-ParameterUpdate154=1
-ParameterName155=Peak Wavelength
-ParameterUpdate155=1
-ParameterName156=Pins
-ParameterUpdate156=1
-ParameterName157=Pitch
-ParameterUpdate157=1
-ParameterName158=Polarity
-ParameterUpdate158=1
-ParameterName159=Power Dissipation
-ParameterUpdate159=1
-ParameterName160=Power Line Protection
-ParameterUpdate160=1
-ParameterName161=Power Rating
-ParameterUpdate161=1
-ParameterName162=Pricing
-ParameterUpdate162=1
-ParameterName163=Q Factor
-ParameterUpdate163=1
-ParameterName164=Radiation Hardening
-ParameterUpdate164=1
-ParameterName165=Ratings
-ParameterUpdate165=1
-ParameterName166=REACH SVHC
-ParameterUpdate166=1
-ParameterName167=RefDes
-ParameterUpdate167=1
-ParameterName168=Reverse Standoff Voltage
-ParameterUpdate168=1
-ParameterName169=Reverse Voltage
-ParameterUpdate169=1
-ParameterName170=RMS Current (Irms)
-ParameterUpdate170=1
-ParameterName171=RoHS
-ParameterUpdate171=1
-ParameterName172=Saturation Current
-ParameterUpdate172=1
-ParameterName173=Schedule B
-ParameterUpdate173=1
-ParameterName174=Self Resonant Frequency
-ParameterUpdate174=1
-ParameterName175=Series
-ParameterUpdate175=1
-ParameterName176=Shape
-ParameterUpdate176=1
-ParameterName177=Shielding
-ParameterUpdate177=1
-ParameterName178=Stock
-ParameterUpdate178=1
-ParameterName179=Supplier
-ParameterUpdate179=1
-ParameterName180=Supplier 1
-ParameterUpdate180=1
-ParameterName181=Supplier Part Number
-ParameterUpdate181=1
-ParameterName182=Supplier Part Number 1
-ParameterUpdate182=1
-ParameterName183=Temperature Coefficient
-ParameterUpdate183=1
-ParameterName184=Temperature Rise Current
-ParameterUpdate184=1
-ParameterName185=Terminal Pitch
-ParameterUpdate185=1
-ParameterName186=Termination
-ParameterUpdate186=1
-ParameterName187=Test Current
-ParameterUpdate187=1
-ParameterName188=Test Frequency
-ParameterUpdate188=1
-ParameterName189=Thickness
-ParameterUpdate189=1
-ParameterName190=Tolerance
-ParameterUpdate190=1
-ParameterName191=Type
-ParameterUpdate191=1
-ParameterName192=Value
-ParameterUpdate192=1
-ParameterName193=Viewing Angle
-ParameterUpdate193=1
-ParameterName194=Voltage
-ParameterUpdate194=1
-ParameterName195=Voltage Rating
-ParameterUpdate195=1
-ParameterName196=Voltage Rating (AC)
-ParameterUpdate196=1
-ParameterName197=Voltage Rating (DC)
-ParameterUpdate197=1
-ParameterName198=Wavelength
-ParameterUpdate198=1
-ParameterName199=Weight
-ParameterUpdate199=1
-ParameterName200=Width
-ParameterUpdate200=1
-ParameterName201=Working Voltage
-ParameterUpdate201=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=CAPC0603X03N
+ModelName0=SRN4018-330M
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=CAPC0603X06N
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=CAPC1005X07N
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=CAPC1608X09N
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=CAPC1608X10N
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=CAPC2012X05N
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=CAPC2012X14N
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=CAPC3216X19N
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=CONN_PHASE01x01
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=DIOM4336X24N
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=FP-S6B-ZR-SM4A-TF_LF_SN-MFG
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=JUMPER
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=LEDC1608X85N
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=MAX15062AATAT
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=QFN50P600X600X80-41N-D
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=QFN50P700X700X65-49N-D
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=RESC1005X04N
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=RESC1608X06N
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=RESC2013X06N
-ModelUpdate18=1
-ModelType19=PCBLIB
-ModelName19=SODFL1608X70N
-ModelUpdate19=1
-ModelType20=PCBLIB
-ModelName20=SOIC127P600X175-8N
-ModelUpdate20=1
-ModelType21=PCBLIB
-ModelName21=TH_UART
-ModelUpdate21=1
-ModelType22=PCBLIB
-ModelName22=TSON8_2-3X1S_TOS-L
-ModelUpdate22=1
-ModelType23=PCBLIB
-ModelName23=XT30PWM
-ModelUpdate23=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
