@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [phoenix-c1.PrjPcb]
+   Generated File[phoenix-c1.TXT]
+   Generated File[phoenix-c1.LDP]
+   Generated File[phoenix-c1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 02:29:31 p. m. On 07/06/2026
