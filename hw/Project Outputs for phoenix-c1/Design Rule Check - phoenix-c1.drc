@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\rorosierra\Documents\phoenix-c1-\hw\phoenix-c1.PcbDoc
-Date     : 03/06/2026
-Time     : 01:33:48 a. m.
+Date     : 14/06/2026
+Time     : 08:37:35 p. m.
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
